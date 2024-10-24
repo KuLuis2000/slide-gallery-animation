@@ -9,6 +9,10 @@
         position: relative;
     }
 
+    header figure{
+        margin-left: 20px;
+    }
+
     nav{
         display: none;
         flex-direction: column;
